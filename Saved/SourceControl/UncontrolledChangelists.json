@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/ZO/GV5RCUHWV8T4BGV2NZJ6YD.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YI/P9LR99J7SMCPASAK2QVV6S.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/QV/S31OZQ40MRISV933OJF5KG.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/3S/60KFK8RWRM7VJ5T1Q8HH9Z.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/YW/YB1V45Y660K0FUFNUDRTM0.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/WC/MQU0KCXUKGP3I350DW49DB.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/8O/0Q2MSR31Z13YY4OOHISHDB.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2X/3PQ8NO8YRZUKO0NBHA2PPE.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/E4/GWAEDDXXCCI6KWY0OIXS51.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/4L/P8B3X5SE7PNIFMMTS585SM.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/YZ/SLXKCRAIKPO7ZKD6UWVZFQ.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/4T/M9HQR8G8AHT28XQRQX3U2R.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/4W/WTEM6IUNYKNZJSDC6AUEOF.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/84/VZCJQFVVTR2QRHDJDSJWMP.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/IL/LZXP8SQEMHZSYB7GEQBGSM.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/H8/WVU7S116HHMSJQKICEJM8U.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/4S/8T6C97IFA3BD2U89RYJIN7.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/4O/EI06P6PFCLGRNXNXK6RHRQ.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/NO/2GT37RJUCBMW9QUE2FFI3X.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/ZT/7QH3NYKU8D4UG4AZ5DRTZK.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/86/NR2B8UKGL8INJ3PREGNY27.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZZ/7D4SAH2GYHAOI1UKR2O855.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1C/ASH6IGVXHUQVJ00S5D04HZ.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/MD/19F5FT541DR304IYM1NK1V.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TC/TGQWL43R6TJ7140FAYXDMV.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/LN/W0LQ36SYO0JGEG7DO5C0XT.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/90/BSZF7RBAUMURR9U4X8OC3R.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/BQ/QMVTLMFM25DRW76I1GXACP.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_GameMode.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_Endgame.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/FirstPerson/Blueprints/BPRifle.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/73/1FB3MB98J6C034SBOAV1SW.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/FirstPerson/Blueprints/BPBullet.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/Target/BP_Target9_GeometryCollection.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9R/OY80ISTUE1HYQSDAA76ZS3.uasset",
+				"C:/Users/vac59/Documents/1UNREAL games/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/XN/YCB1HQ9AT75GTZKAPSGWNO.uasset",
+				"C:/Users/vac59/Documents/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (4)/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
